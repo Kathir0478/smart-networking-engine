@@ -1,0 +1,71 @@
+Entrepreneur_id - just for showing and mapping the recomendatiions
+
+Name - just for showing recomendations
+ Number just for howing 
+ mail just for showing
+
+Industry :
+
+Technology	- E-commerce, Finance, Healthcare, Logistics, Agriculture
+Healthcare	- Technology, Manufacturing, Logistics, Tourism
+Finance		- Technology, E-commerce, Retail, Healthcare
+Retail		- Ecommerce, Logistics, Manufactoring
+Ecommerce	- Technlogy, Logistics, Retail
+Manufacturing	- Logistics, Technology, HealthCare, Retail
+Management	- Technology, logistics, finance
+Logistics	- e-commerce, manufacturing, retail
+Tourism		- technology , healthcare
+Agriculture	- technology, manufacturing, logistics
+
+Experience_level :
+	novice       - intermediate
+	intermediate - expert,intermediate
+	expert       - expert
+
+Business_size :
+	solo 		-small, micro, solo
+	small business  -medium ,micro
+	medium business -micro, larger 
+	larger business -medium 
+	micro business  -medium, small
+
+Skills :
+	Product Development     - innovation, problem solving
+	Marketing		- networking, innovation, emotional intelligence, problem solving
+	Networking		- networking, management
+	Logistics		- networking, marketing, emotional inteligence
+	Management		- logistics, marketing, problem solving
+	Problem Solving		- innovation, product development, management
+	Emotional Intelligence	- innovation, marketing, networking
+	Innovation		- product development, management, problem solving
+
+Locations: 
+	Chennai		- bangalore, Pondicherry, Hyderabad, mumbai
+	Bangalore	- Chennai, Hyderabad, pune, mysore
+	Hyderabad 	- bangalore, Chennai, pune, mumbai
+	Pune		- Mumbai, bangalore, Hyderabad, goa
+	Mumbai		- pune, goa, Hyderabad, delhi
+	Goa		- Mumbai, Chennai, Pondicherry, goa
+	Mysore		- bangalore, Chennai, Pondicherry, goa
+	Pondicherry	- Chennai, bangalore, mysore, hyderabad
+	Delhi		- Kolkata, Mumbai, Hyderabad, pune
+	Kolkata		- delhi, Mumbai, Chennai, hyderabad
+
+Business_goals:
+	Innovation		- customer acquisition, market laucnh
+	Market Expansion	- product devolepment, service devolepment
+	Product Launch		- customer acquisition, market expasion
+	Customer Acquisition	- innovation, service development
+	Service Development	- product launch
+
+Buisness_stage : tightly coupled with experience level 
+	startup	-mature
+	growth 	-mature
+	mature 	-growth, startup
+Connections_Made : recommended to have more or equal connections that the one recienving recomendations
+
+Partnership_successfull: preferred to have more successfull
+
+Preferred_partener_industry:
+	tightly coupled with industry 
+
